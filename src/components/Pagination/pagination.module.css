@@ -1,0 +1,48 @@
+.paginationDark {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  li {
+    [aria-current='true'] {
+      background: #3730a3;
+    }
+    [aria-current='true']:hover {
+      background: #3730a3;
+    }
+    button {
+      a {
+        color: #d1d5db;
+        border-color: azure;
+      }
+
+      background-color: #1e1b4b;
+      transition-duration: 0ms;
+    }
+    :hover {
+      background: #4f46e5;
+    }
+  }
+}
+
+.paginationLight {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  li {
+    [aria-current='true'] {
+      background: #0ea5e9;
+    }
+    [aria-current='true']:hover {
+      background: #0ea5e9;
+    }
+    button {
+      color: #d1d5db;
+      border-color: azure;
+      background-color: #0284c7;
+      transition-duration: 0ms;
+    }
+    :hover {
+      background: #38bdf8;
+    }
+  }
+}

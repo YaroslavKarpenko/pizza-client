@@ -1,0 +1,58 @@
+{
+  "cart": {
+    "title": "Your cart",
+    "total": "Total:",
+    "remove": "Remove",
+    "dough": "dough:",
+    "size": "size:",
+    "cart-item": {
+      "dough": { "thin": "thin", "thick": "thick" },
+      "size": { "small": "small", "medium": "medium", "large": "large" }
+    }
+  },
+  "not-found": {
+    "title": "Page not found",
+    "p1": "You can go to the ",
+    "p2": " page to order delicious pizza or go to ",
+    "p3": " section to learn more about this project",
+    "link-home": "home",
+    "link-about": "about"
+  },
+  "catalog": {
+    "sort-popup": {
+      "sort": { "name": "name", "price": "price", "rating": "rating" },
+      "sort-by": "Sort by:"
+    },
+    "categories": {
+      "pizza-categories": {
+        "all": "All",
+        "neapolitan": "Neapolitan",
+        "italian": "Italian",
+        "american": "American",
+        "canadian": "Canadian",
+        "mexican": "Mexican"
+      }
+    },
+    "pizza-list": {
+      "pizza-card": {
+        "dough": { "thin": "thin", "thick": "thick" },
+        "size": { "small": "small", "medium": "medium", "large": "large" },
+        "add": "Add",
+        "reviews": "reviews"
+      }
+    },
+    "pizza": "pizza",
+    "filter-details": {
+      "found": "Pizza category:",
+      "sort-by": "Sorted: by ",
+      "in-total": "Total products:"
+    }
+  },
+  "pizza-info-page": {
+    "origin": "Origin:",
+    "available-dough": "Available types of dough:",
+    "available-sizes": "Available sizes:",
+    "recipe": "Recipe:",
+    "rating": "Rating:"
+  }
+}
